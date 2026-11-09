@@ -1,0 +1,140 @@
+{
+  "_note": "Tenues cousues et dessinées à l'atelier. cat : mariee | marie | famille | enfants. Noms descriptifs provisoires, à remplacer par les vrais noms des modèles. Ajouter une tenue : photo dans assets/, ligne dans scripts/media.mjs, npm run media, puis ligne ici.",
+  "items": [
+    {
+      "id": "mariee-satin-fuchsia",
+      "cat": "mariee",
+      "image": "/media/tenues/mariee-satin-fuchsia.jpg",
+      "name": {
+        "he": "חליפת סאטן פוקסיה רקומה",
+        "en": "Embroidered fuchsia satin set"
+      }
+    },
+    {
+      "id": "mariee-argent-brode",
+      "cat": "mariee",
+      "image": "/media/tenues/mariee-argent-brode.jpg",
+      "name": {
+        "he": "סט כסף ברקמת אבנים",
+        "en": "Silver set with stone embroidery"
+      }
+    },
+    {
+      "id": "mariee-brocart-bleu",
+      "cat": "mariee",
+      "image": "/media/tenues/mariee-brocart-bleu.jpg",
+      "name": {
+        "he": "שמלת ברוקד כחול־לבן",
+        "en": "Blue and white brocade dress"
+      }
+    },
+    {
+      "id": "mariee-satin-blanc-perle",
+      "cat": "mariee",
+      "image": "/media/tenues/mariee-satin-blanc-perle.jpg",
+      "name": {
+        "he": "סאטן לבן ברקמת פנינים",
+        "en": "White satin with pearl embroidery"
+      }
+    },
+    {
+      "id": "mariee-bustier-dore",
+      "cat": "mariee",
+      "image": "/media/tenues/mariee-bustier-dore.jpg",
+      "name": {
+        "he": "מחוך זהב וחצאית רקומה",
+        "en": "Gold bustier and embroidered skirt"
+      }
+    },
+    {
+      "id": "mariee-couronne-bleue",
+      "cat": "mariee",
+      "image": "/media/tenues/mariee-couronne-bleue.jpg",
+      "name": {
+        "he": "שמלת ז׳קארד תכלת וכתר",
+        "en": "Pale blue jacquard gown and crown"
+      }
+    },
+    {
+      "id": "marie-gilet-brode",
+      "cat": "marie",
+      "image": "/media/tenues/marie-gilet-brode.jpg",
+      "name": {
+        "he": "וסט חתן ארוך ברקמת אבנים",
+        "en": "Long groom's waistcoat, stone embroidery"
+      }
+    },
+    {
+      "id": "marie-gilet-turquoise",
+      "cat": "marie",
+      "image": "/media/tenues/marie-gilet-turquoise.jpg",
+      "name": {
+        "he": "וסט טורקיז־לבן",
+        "en": "Turquoise and white waistcoat"
+      }
+    },
+    {
+      "id": "couple-turquoise-emeraude",
+      "cat": "famille",
+      "image": "/media/tenues/couple-turquoise-emeraude.jpg",
+      "name": {
+        "he": "טורקיז ואמרלד לזוג",
+        "en": "Turquoise and emerald for the couple"
+      }
+    },
+    {
+      "id": "couple-satin-rose",
+      "cat": "famille",
+      "image": "/media/tenues/couple-satin-rose.jpg",
+      "name": {
+        "he": "סאטן ורוד ואפרסק לזוג",
+        "en": "Pink and peach satin for the couple"
+      }
+    },
+    {
+      "id": "couple-fuchsia-gilet",
+      "cat": "famille",
+      "image": "/media/tenues/couple-fuchsia-gilet.jpg",
+      "name": {
+        "he": "פוקסיה ווסט רקום",
+        "en": "Fuchsia and an embroidered waistcoat"
+      }
+    },
+    {
+      "id": "couple-brocart-emeraude",
+      "cat": "famille",
+      "image": "/media/tenues/couple-brocart-emeraude.jpg",
+      "name": {
+        "he": "ברוקד טורקיז ושמלה ירוקה",
+        "en": "Turquoise brocade and a green dress"
+      }
+    },
+    {
+      "id": "couple-trone-blanc",
+      "cat": "famille",
+      "image": "/media/tenues/couple-trone-blanc.jpg",
+      "name": {
+        "he": "לבן וכסף לזוג",
+        "en": "White and silver for the couple"
+      }
+    },
+    {
+      "id": "famille-or-brocart",
+      "cat": "famille",
+      "image": "/media/tenues/famille-or-brocart.jpg",
+      "name": {
+        "he": "ההורים בזהב ובברוקד",
+        "en": "The parents in gold and brocade"
+      }
+    },
+    {
+      "id": "bat-mitsva-trone-rouge",
+      "cat": "enfants",
+      "image": "/media/bar-bat-mitsva/bat-mitsva-trone-rouge.jpg",
+      "name": {
+        "he": "בת מצווה בתכלת",
+        "en": "Bat mitzvah in pale blue"
+      }
+    }
+  ]
+}

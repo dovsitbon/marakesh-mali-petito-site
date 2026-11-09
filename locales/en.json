@@ -1,0 +1,297 @@
+{
+  "meta": {
+    "title": "Moroccan Henna Ceremonies and Made-to-Measure Outfits | Marakesh Mali Petito",
+    "description": "For over 30 years, Marakesh Mali Petito has produced fairy-tale Moroccan henna ceremonies in Israel: outfits designed and sewn in-house for the bride, groom and family, royal décor, a home henna package, bar and bat mitzvahs. As seen on Channel 12 and Channel 14. Check your date: +972 53-344-4862.",
+    "ogAlt": "Bride and groom in embroidered gold outfits on the gilded throne of Marakesh Mali Petito"
+  },
+  "intro": { "skip": "Skip" },
+  "nav": {
+    "skip": "Skip to content",
+    "home": "Marakesh Mali Petito – home",
+    "menu": "Menu",
+    "close": "Close",
+    "language": "Language",
+    "ceremonies": "Henna ceremonies",
+    "home_pkg": "Henna at home",
+    "mitsva": "Bar/bat mitzvah",
+    "outfits": "Outfits",
+    "brides": "Our brides",
+    "about": "About",
+    "contact": "Contact",
+    "check": "Check a date"
+  },
+  "announce": { "close": "Close this notice" },
+  "hero": {
+    "eyebrow": "Fairy-tale henna ceremonies · Made-to-measure outfits · 30+ years",
+    "title": "A henna out of a fairy tale",
+    "text": "Every outfit is designed and sewn in our studio, for the bride, the groom and the whole family. We bring the throne, the carpets and the magic; all you have to do is arrive and feel like a queen.",
+    "cta": "Check a date",
+    "secondary": "See our brides"
+  },
+  "proof": {
+    "years": "years of tradition, joy and magic",
+    "yearsValue": "30+",
+    "tv": "As seen on TV",
+    "ceremonies": "henna ceremonies produced",
+    "free": "First consultation free"
+  },
+  "services": {
+    "eyebrow": "What we produce",
+    "title": "Every celebration, Moroccan style",
+    "cta": "Details",
+    "items": [
+      { "id": "full", "name": "Full henna ceremony", "text": "A royal throne, entrance gates, carpets, henna bowls and outfits for the whole family. Everything arrives, is set up and looked after until the last zaghrouta.", "href": "#formules" },
+      { "id": "home", "name": "The home package", "text": "An elegant white-and-gold sofa, a Moroccan carpet and a designed henna bowl. An intimate henna in your living room, with the same care.", "href": "#formules" },
+      { "id": "mitsva", "name": "Bar and bat mitzvah", "text": "A personally designed outfit for your son or daughter, royal décor and traditional outfits for the guests.", "href": "#formules" },
+      { "id": "outfits", "name": "Made-to-measure outfits", "text": "Mali designs and sews each outfit for your style and figure, including for brides who dress modestly.", "href": "#tenues" }
+    ]
+  },
+  "formulas": {
+    "eyebrow": "Packages",
+    "title": "What each package includes",
+    "text": "Prices are a starting point. Every henna is built around your guest count, venue and the outfits you choose; we settle the rest together on a call.",
+    "from": "From {price}",
+    "onRequest": "Price on request",
+    "includesLabel": "Included",
+    "extrasLabel": "Optional extras",
+    "cta": "Check a date",
+    "note": "Prices taken from our published offers and subject to change. You’ll get an exact quote on a call.",
+    "items": [
+      { "name": "Full henna ceremony", "text": "For a hall, an events garden or a courtyard: our complete production." },
+      { "name": "The home package", "text": "A small, warm henna at home, with our finest pieces." },
+      { "name": "Bar and bat mitzvah", "text": "An authentic Moroccan celebration for your son or daughter." },
+      { "name": "Moroccan party at home", "text": "For a birthday, the Mimouna or any reason to celebrate." }
+    ],
+    "inclusions": {
+      "throne": "Royal throne (talmon) in white gold",
+      "carpets": "Traditional Moroccan carpets",
+      "gates": "Grand entrance gates",
+      "outfitsCouple": "Made-to-measure outfits for the bride and groom",
+      "outfitsGuests": "Traditional outfits for the guests",
+      "outfitsFamily": "Made-to-measure outfits for close family",
+      "hennaSet": "Henna bowls and trays for the ceremony",
+      "cookies": "Cookie display on special serving pieces",
+      "ceremony": "Ceremony hosting and atmosphere",
+      "carts": "Moroccan market carts",
+      "camels": "A pair of Moroccan camels",
+      "sofa": "Elegant white-and-gold sofa",
+      "twoSofas": "Two matching white-and-gold sofas",
+      "carpet": "Traditional Moroccan carpet",
+      "hennaBowl": "Designed henna bowl for the ceremony",
+      "outfitChild": "Personally designed outfit for the child",
+      "royalDecor": "Royal décor brought to your door",
+      "hennaExperience": "A festive henna experience",
+      "kaftansWomen": "10 kaftans for women",
+      "kaftansMen": "10 kaftans and tarbouches for men",
+      "sinia": "Sinias, low Moroccan tables",
+      "decor": "Authentic décor for your home",
+      "dj": "DJ with a Moroccan vibe"
+    }
+  },
+  "outfits": {
+    "eyebrow": "Studio and outfits",
+    "title": "You don’t fit the outfit",
+    "text": "The outfit fits you. Mali, a Shenkar-trained designer, designs and sews every piece in the studio: stone embroidery, brocade, satin and pearls, cut to each bride’s style, figure and level of modesty.",
+    "label": "Filter outfits",
+    "filters": { "all": "All", "mariee": "Bride", "marie": "Groom", "famille": "Couple & family", "enfants": "Children" },
+    "empty": "More photos are coming soon. Meanwhile, the whole collection is waiting for you at the studio.",
+    "more": "See all outfits",
+    "cta": "Book a fitting"
+  },
+  "tv": {
+    "eyebrow": "As seen on TV",
+    "title": "The Mimouna on Channel 12 and Channel 14",
+    "text": "For several years the channels have asked us to dress the studio, the hosts and their guests for the live Mimouna celebrations.",
+    "play": "Play with sound",
+    "pause": "Pause",
+    "mute": "Mute",
+    "unmute": "Turn sound on",
+    "clips": {
+      "arouts14-matin": "Channel 14 · Mimouna morning show",
+      "arouts14-patriotes": "Channel 14 · “The Patriots”, Mimouna 2026",
+      "arouts12-paula-leon": "Channel 12 · Paula and Leon’s Mimouna",
+      "arouts12-mimouna": "Channel 12 · The main Mimouna show"
+    },
+    "press": "Also: a Reshet 13 feature on the henna parties of the 90s, the “HaOlam HaBoker” Mimouna broadcast and a magazine interview."
+  },
+  "celebs": {
+    "eyebrow": "They chose us",
+    "title": "Familiar faces who celebrated with us",
+    "items": [
+      { "id": "eden", "name": "Eden Harel and Oded Menashe", "text": "A Moroccan henna ceremony for Abigail’s bat mitzvah, with a dress and outfits Mali sewed especially." },
+      { "id": "itay", "name": "Itay Levi", "text": "An outfit Mali designed for him for Channel 12’s main Mimouna show." },
+      { "id": "nir", "name": "Nir Klinger", "text": "Thank you for the warm words and the privilege of sharing a family celebration." }
+    ],
+    "watch": "Watch the video"
+  },
+  "blocks": [
+    { "id": "tradition", "eyebrow": "A family tradition", "title": "Thirty years of henna nights", "text": "What began as a deep love for the Moroccan henna became a family studio: outfits Mali designs and sews, pieces imported from Morocco, and a family that walks every bride through it from the first meeting.", "cta": "About us", "href": "#about" },
+    { "id": "day", "eyebrow": "The henna day", "title": "The bride walks in and the room rises", "text": "The procession, the drums, the henna trays and the zaghroutas. We are there from setup until the moment the henna is placed in her palm.", "cta": "Henna ceremonies", "href": "#formules" },
+    { "id": "intimate", "eyebrow": "The home package", "title": "A small henna, the same magic", "text": "For those who would rather celebrate at home or in the garden with close family: the grand sofas, the carpet and the henna bowl come to you.", "cta": "Check a date", "href": "#contact" }
+  ],
+  "brides": {
+    "eyebrow": "Our brides",
+    "title": "Every couple, its own fairy tale",
+    "text": "A few of the henna nights we produced recently. Many more in our Instagram highlights.",
+    "guests": "{n} guests",
+    "more": "More brides on Instagram"
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "Mali Petito",
+    "p1": "Mali has been producing henna ceremonies and Mimounas for more than thirty years and is still moved by every single one. She designs, sews, chooses every bowl and every carpet, and is there on the day itself.",
+    "p2": "By her side are Liel Petito and the family, who dress the guests with patience and joy so everyone feels part of the ceremony.",
+    "quote": "Every event still moves me; it’s a privilege to share in the joy.",
+    "cta": "Talk to Mali"
+  },
+  "why": {
+    "eyebrow": "Why us",
+    "title": "Dear bride, this is how we work",
+    "items": [
+      { "title": "Years of experience", "text": "Behind the designs is Mali, a Shenkar graduate with more than thirty years in design, sewing and henna ceremonies." },
+      { "title": "Personal fit and care", "text": "Each outfit is fitted to your style and figure, down to the smallest detail, so your look feels and looks exactly like you." },
+      { "title": "Modest, never plain", "text": "We sewed a collection for brides who dress modestly, so you can feel beautiful, special and regal." },
+      { "title": "Pieces chosen in Morocco", "text": "Thrones, gates, market carts and serving pieces we import ourselves, in a collection renewed every year." }
+    ]
+  },
+  "reviews": {
+    "eyebrow": "Kind words",
+    "title": "What families say",
+    "translated": "Translated from Hebrew"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Everything you wanted to know",
+    "items": [
+      { "q": "How far ahead should we book?", "a": "Dates go quickly in wedding season, so check yours as soon as you have a venue or a wedding date. Made-to-measure outfits also need time for fittings." },
+      { "q": "Which areas do you cover?", "a": "Our studio is in Rishon LeZion and the décor comes to you: to the hall, the events garden or your home. Tell us where the henna is and we’ll confirm on a call." },
+      { "q": "How many outfits are included?", "a": "It depends on the package and the guest count: outfits for the bride and groom, for close family and traditional outfits for the guests. The home party includes 10 kaftans for women and 10 kaftans with tarbouches for men." },
+      { "q": "Can I try outfits on at the studio?", "a": "Of course. Book a fitting at the studio, browse the catalogue and choose the outfits together. Send us a message to arrange it." },
+      { "q": "What does the home package include?", "a": "An elegant white-and-gold sofa, two matching sofas, a traditional Moroccan carpet and a designed henna bowl. You can add outfits for the couple, the family and the guests, and a cookie display." },
+      { "q": "How do we secure a date?", "a": "Send us your event details, receive a tailored quote, and hold the date with a deposit. We’ll agree the deposit amount and payment terms with you on a call." }
+    ]
+  },
+  "book": {
+    "eyebrow": "Check a date",
+    "title": "Tell us about your henna",
+    "text": "Fill in a few details and the message opens in your WhatsApp, ready to send. We’ll come back to you with a tailored quote. The first consultation is free.",
+    "steps": { "event": "The event", "wishes": "What you’d like", "contact": "How to reach you" },
+    "fields": {
+      "type": "Type of event",
+      "types": { "full": "Henna ceremony", "home": "Home package", "mitsva": "Bar or bat mitzvah", "party": "Moroccan party", "unsure": "Not sure yet" },
+      "date": "Date",
+      "venue": "Venue",
+      "venues": { "hall": "Hall", "home": "Home", "outdoor": "Outdoors" },
+      "city": "City",
+      "cityPlaceholder": "e.g. Rishon LeZion",
+      "guests": "Number of guests",
+      "outfitsCount": "Approximate number of outfits",
+      "budget": "Budget",
+      "budgetPlaceholder": "e.g. ₪5,000",
+      "optional": "optional",
+      "name": "Full name",
+      "phone": "Phone",
+      "message": "Message",
+      "messagePlaceholder": "Colours you love, number of looks for the bride, questions…",
+      "dateTaken": "This date is already booked with us. Send anyway and we’ll look at it together.",
+      "dateFree": "This date is still free with us."
+    },
+    "submit": "Send on WhatsApp",
+    "hint": "Nothing is stored on this site. The message is sent from your own WhatsApp.",
+    "required": "Required",
+    "invalidPhone": "This phone number doesn’t look right",
+    "message": {
+      "title": "Date request – Marakesh Mali Petito",
+      "type": "Type of event",
+      "date": "Date",
+      "venue": "Venue",
+      "city": "City",
+      "guests": "Guests",
+      "outfits": "Outfits (approx.)",
+      "budget": "Budget",
+      "name": "Name",
+      "phone": "Phone",
+      "message": "Message",
+      "closing": "Thank you, looking forward to hearing from you!"
+    },
+    "success": {
+      "thanks": "Thank you",
+      "title": "Your message is ready in WhatsApp",
+      "text": "If WhatsApp didn’t open, tap the button. We’ll get back to you soon.",
+      "again": "Open WhatsApp",
+      "reset": "New request"
+    },
+    "or": "Or directly:",
+    "studio": "Studio in {city}"
+  },
+  "footer": {
+    "tagline": "Fairy-tale henna ceremonies",
+    "studio": "Studio in {city}",
+    "regions": "The décor comes to you, anywhere in Israel",
+    "contact": "Contact",
+    "follow": "Follow us",
+    "legal": "Legal notice and privacy",
+    "rights": "All rights reserved",
+    "credit": "All photos and videos come from Marakesh Mali Petito’s events and broadcasts."
+  },
+  "legal": {
+    "title": "Legal notice and privacy",
+    "back": "Back to home",
+    "sections": [
+      { "h": "Site owner", "p": "Marakesh Mali Petito – henna ceremony productions. Phone and WhatsApp: +972 53-344-4862. Full business details (registered name and business number): to be added." },
+      { "h": "Hosting", "p": "This site is hosted by Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, USA." },
+      { "h": "Privacy", "p": "This site collects and stores no personal data. The date form only prepares a WhatsApp message that you send yourself. No tracking or advertising cookies are used; only your choice to close the top notice and your language are remembered." },
+      { "h": "Images", "p": "All photos and videos belong to Marakesh Mali Petito and to the couples who agreed to their publication. TV extracts are shown courtesy of the channels. Please do not copy without permission." }
+    ]
+  },
+  "mobile": { "check": "Check a date", "whatsapp": "WhatsApp" },
+  "whatsapp": {
+    "hello": "Hello Mali, I saw your website and would love to check a date for a henna 🙂",
+    "float": "Message us on WhatsApp"
+  },
+  "alt": {
+    "maries-or-trone": "Bride and groom in embroidered gold outfits kissing on a gilded throne in a garden",
+    "trone-jardin": "Couple in white seated on a gilded throne on a white stage in a garden",
+    "mariee-satin-fuchsia": "Bride dancing in a fuchsia satin set with silver embroidery",
+    "mariee-argent-brode": "Bride in a shimmering silver set with stone embroidery and a headpiece",
+    "mariee-brocart-bleu": "Bride in a blue and white brocade dress with puffed sleeves",
+    "mariee-satin-blanc-perle": "Bride in white satin with pearl embroidery and a crown",
+    "mariee-bustier-dore": "Bride in a gold bustier and embroidered skirt beside the groom",
+    "mariee-couronne-bleue": "Bride in a pale blue jacquard gown and blue crown",
+    "marie-gilet-brode": "Long groom’s waistcoat with stone embroidery on a mannequin",
+    "marie-gilet-turquoise": "Groom in a turquoise and white waistcoat on a throne",
+    "couple-turquoise-emeraude": "Groom in an embroidered turquoise waistcoat and bride in a shimmering green dress",
+    "couple-satin-rose": "Bride in a pink satin dress and groom in an embroidered peach waistcoat",
+    "couple-fuchsia-gilet": "Bride in a fuchsia set and groom in an embroidered waistcoat between white drapes",
+    "couple-brocart-emeraude": "Groom in a turquoise brocade robe and bride in a green dress",
+    "couple-trone-blanc": "Couple in white and silver seated on a white-and-gold throne",
+    "famille-or-brocart": "Parents in a gold dress and brocade waistcoat in a garden",
+    "bat-mitsva-trone-rouge": "Eden Harel and her daughter in a pale blue dress on a white sofa before a red lattice wall",
+    "o-a-mains-henne": "Bride and groom showing henna on their palms before a lattice wall",
+    "y-m-trone-dore": "Bride and groom embracing in front of a gilded throne",
+    "s-o-jardin": "Bride and groom in white kissing beside a throne in a garden",
+    "k-s-trone": "Bride and groom in white and silver on a gilded throne",
+    "m-a-allee": "Bride in white walking on a red carpet between drapes",
+    "o-e-arche": "Bride and groom in white under a lit Moroccan arch",
+    "d-o-trone": "Bride and groom raising their hands on a white throne",
+    "n-l-danse": "Bride and groom dancing in front of a gilded throne",
+    "o-t-trone-blanc": "Bride and groom in white standing before a gilded throne",
+    "salon-blanc-or": "White fan-shaped Moroccan sofa with two matching chairs",
+    "chez-soi-jardin": "Carved white gates and a gilded sofa on a carpet in a home garden",
+    "portes-blanc-or": "Carved white entrance gate with white drapes",
+    "charrette-souk": "Moroccan market cart with jars, baskets and cushions",
+    "chameaux": "A pair of Moroccan camels with red saddles",
+    "cortege-tambour": "Procession with drums and a bride in Moroccan dress",
+    "mariee-henne-mains": "Bride in white showing her hennaed palms",
+    "table-douceurs": "Table of Moroccan cookies on gilded trays",
+    "eden-harel-henne": "Eden Harel in an embroidered green robe holding a henna spoon",
+    "plateau-arouts-12": "Mali in the Channel 12 studio beside the throne she designed",
+    "mali-plateau-mimouna": "Mali in a TV studio beside a Mimouna table full of cookies",
+    "mali-atelier-magazine": "Mali in her studio beside a rail of dresses and a mannequin",
+    "arouts14-matin": "Mali in an embroidered blue robe on Channel 14",
+    "arouts14-patriotes": "Mali with a microphone in the studio of “The Patriots” on Channel 14",
+    "arouts12-paula-leon": "Guest in Moroccan dress in Paula and Leon’s studio on Channel 12",
+    "arouts12-mimouna": "Boy in a white Moroccan outfit and Mali on Channel 12’s Mimouna show",
+    "temoignage-nir-klinger": "Nir Klinger thanking Mali in a video"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "_note": "Nos mariées : une carte par couple, initiales seulement (stories à la une « הכלות שלנו » et par couple, publications). place et guests À REMPLIR avec Mali (null = non affiché). Accord des couples à confirmer.",
+  "items": [
+    {
+      "id": "o-a",
+      "initials": "O & A",
+      "image": "/media/mariees/o-a-mains-henne.jpg",
+      "place": null,
+      "guests": null
+    },
+    {
+      "id": "s-o",
+      "initials": "S & O",
+      "image": "/media/mariees/s-o-jardin.jpg",
+      "place": null,
+      "guests": null
+    },
+    {
+      "id": "k-s",
+      "initials": "K & S",
+      "image": "/media/mariees/k-s-trone.jpg",
+      "place": {
+        "he": "סליה – אירועים מאהבה",
+        "en": "Salya Events"
+      },
+      "guests": null
+    },
+    {
+      "id": "y-m",
+      "initials": "Y & M",
+      "image": "/media/mariees/y-m-trone-dore.jpg",
+      "place": null,
+      "guests": null
+    },
+    {
+      "id": "m-a",
+      "initials": "M & A",
+      "image": "/media/mariees/m-a-allee.jpg",
+      "place": {
+        "he": "ראש העין",
+        "en": "Rosh HaAyin"
+      },
+      "guests": null
+    },
+    {
+      "id": "o-e",
+      "initials": "O & E",
+      "image": "/media/mariees/o-e-arche.jpg",
+      "place": null,
+      "guests": null
+    },
+    {
+      "id": "o-t",
+      "initials": "O & T",
+      "image": "/media/mariees/o-t-trone-blanc.jpg",
+      "place": null,
+      "guests": null
+    },
+    {
+      "id": "d-o",
+      "initials": "D & O",
+      "image": "/media/mariees/d-o-trone.jpg",
+      "place": null,
+      "guests": null
+    },
+    {
+      "id": "n-l",
+      "initials": "N & L",
+      "image": "/media/mariees/n-l-danse.jpg",
+      "place": null,
+      "guests": null
+    }
+  ]
+}

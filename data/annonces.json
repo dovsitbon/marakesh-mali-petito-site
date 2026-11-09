@@ -1,0 +1,9 @@
+{
+  "_note": "Bandeau d'infos pratiques (fermable). Passer active à false pour le masquer ; changer id pour le réafficher à tous. Texte tiré de ses publications 2026 (« קולקציה חדשה 2026 – ייבוא אישי ממרוקו », « ייעוץ ללא עלות »), À CONFIRMER.",
+  "id": "collection-2026",
+  "active": true,
+  "text": {
+    "he": "קולקציה חדשה 2026 · ייבוא אישי ממרוקו · ייעוץ ללא עלות",
+    "en": "New 2026 collection · Imported from Morocco · Free consultation"
+  }
+}

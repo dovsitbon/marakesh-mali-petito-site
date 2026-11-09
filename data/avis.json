@@ -1,0 +1,35 @@
+{
+  "_note": "Avis réels uniquement, recopiés de la story à la une « המלצות » (message WhatsApp de Dalia, mère de la mariée Keren) et d'une story publique d'Eden Harel repartagée dans « סלבס ». Traductions signalées comme telles. N'en inventer aucun.",
+  "items": [
+    {
+      "id": "dalia",
+      "name": {
+        "he": "דליה, אמא של הכלה קרן",
+        "en": "Dalia, mother of the bride Keren"
+      },
+      "source": {
+        "he": "הודעת וואטסאפ",
+        "en": "WhatsApp message"
+      },
+      "text": {
+        "he": "אני חייבת להודות לך על כל הליווי המושלם, מהיום הראשון שהגענו אלייך ועד לסיום הערב המוצלח של החינה של קרן ושרון. תודה על הסבלנות ועל ההקשבה לכל בקשה של הכלה והמשפחה, על ההופעות המושלמות שתפרת במיוחד לקרן, על כל שפע הכפתנים שאת וביתך הלבשתם את האורחים בשמחה ובסבלנות, על סידור השולחן המושלם עם העוגיות והפיצוחים והתפאורה. לא הייתי מוותרת על כלום. שמחה שבחרתי בך מכל מארגנות החינה. אמליץ עלייך כמובן.",
+        "en": "I have to thank you for guiding us so perfectly, from the first day we came to you until the end of Keren and Sharon’s henna night. Thank you for your patience and for listening to every request from the bride and the family, for the perfect looks you sewed especially for Keren, for all the kaftans you and your daughter dressed the guests in, with joy and patience, and for the perfect table of cookies, nuts and décor. I wouldn’t have given up on anything. I’m glad I chose you out of all the henna organisers. I’ll recommend you, of course."
+      }
+    },
+    {
+      "id": "eden",
+      "name": {
+        "he": "עדן הראל, בת המצווה של אביגיל",
+        "en": "Eden Harel, for Abigail’s bat mitzvah"
+      },
+      "source": {
+        "he": "סטורי באינסטגרם",
+        "en": "Instagram story"
+      },
+      "text": {
+        "he": "זאת מלי האלופה. היא תפרה לאביגיל את השמלה! ולחינה היא תפרה לה סוג של כפתן, של כלות ממש. נתנה את כל הלב.",
+        "en": "This is Mali, the champion. She sewed Abigail’s dress! And for the henna she sewed her a kind of kaftan, a real bride’s one. She gave it her whole heart."
+      }
+    }
+  ]
+}

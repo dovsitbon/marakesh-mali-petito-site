@@ -1,0 +1,68 @@
+{
+  "_note": "Formules À CONFIRMER avec Mali. priceFrom en shekels (null = « sur devis ») : prix relevés dans ses publications Instagram 2025-2026, certains étaient des offres limitées. Textes dans locales/*.json → formulas.items (même ordre). includes / extras : clés de locales → formulas.inclusions.",
+  "items": [
+    {
+      "id": "full",
+      "priceFrom": 2999,
+      "priceSource": "reel « מגוון חבילות חינה החל מ־2,999 ₪ » (offre spéciale)",
+      "includes": [
+        "throne",
+        "carpets",
+        "gates",
+        "outfitsCouple",
+        "outfitsGuests",
+        "hennaSet",
+        "cookies",
+        "ceremony"
+      ],
+      "extras": [
+        "carts",
+        "camels"
+      ]
+    },
+    {
+      "id": "home",
+      "priceFrom": 2500,
+      "priceSource": "reel « חבילת החינה הביתית שלנו רק ב־2,500 ₪ »",
+      "includes": [
+        "sofa",
+        "twoSofas",
+        "carpet",
+        "hennaBowl"
+      ],
+      "extras": [
+        "outfitsCouple",
+        "outfitsGuests",
+        "outfitsFamily",
+        "cookies"
+      ]
+    },
+    {
+      "id": "mitsva",
+      "priceFrom": 2500,
+      "priceSource": "reel bar/bat-mitsva « כל הטוב הזה החל מ־2,500 ₪ »",
+      "includes": [
+        "outfitChild",
+        "royalDecor",
+        "outfitsGuests",
+        "hennaExperience"
+      ],
+      "extras": []
+    },
+    {
+      "id": "party",
+      "priceFrom": 1699,
+      "priceSource": "reel « חגיגה מרוקאית אצלכם בבית – רק ב־1,699 ₪ »",
+      "includes": [
+        "kaftansWomen",
+        "kaftansMen",
+        "carpet",
+        "sinia",
+        "decor"
+      ],
+      "extras": [
+        "dj"
+      ]
+    }
+  ]
+}

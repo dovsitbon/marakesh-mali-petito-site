@@ -1,0 +1,30 @@
+{
+  "url": "https://marakesh-mali-petito.vercel.app",
+  "nameLatin": "Marakesh Mali Petito",
+  "nameHe": "מרקש מלי פטיטו",
+  "phone": "053-344-4862",
+  "phoneIntl": "+972 53-344-4862",
+  "whatsapp": "972533444862",
+  "team": [
+    {
+      "id": "mali",
+      "name": {
+        "he": "מלי",
+        "en": "Mali"
+      },
+      "phone": "050-883-8881",
+      "whatsapp": "972508838881"
+    },
+    {
+      "id": "liel",
+      "name": {
+        "he": "ליאל",
+        "en": "Liel"
+      },
+      "phone": "050-217-7042",
+      "whatsapp": "972502177042"
+    }
+  ],
+  "instagram": "https://www.instagram.com/marakesh_mali_petito/",
+  "instagramHandle": "@marakesh_mali_petito"
+}
