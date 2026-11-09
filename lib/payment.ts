@@ -7,7 +7,7 @@
  */
 export const deposit = {
   enabled: false,
-  /** Acompte en shekels (À REMPLIR avec Kineret). */
+  /** Acompte en shekels (À REMPLIR avec Mali). */
   amount: null as number | null,
   currency: "ILS",
 } as const;
